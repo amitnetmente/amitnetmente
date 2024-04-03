@@ -1,11 +1,6 @@
 🕉 AMIT SHARMA LAXY 🕉
 ======================
 
-
-
-
-
-
 <p align="center">
  <a href="" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="laxy" />
@@ -45,7 +40,9 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+<p>
+  <img align="right" src="https://pbs.twimg.com/media/EbbgbkdU0AEJ6Yd.jpg" alt="Avatar" style="width:200px">
+</p>
 <!---
 amitnetmente/amitnetmente is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
